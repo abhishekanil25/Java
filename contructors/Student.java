@@ -32,6 +32,6 @@ public class Student {
 		this.mark = mark;
 	}
 	void print() {
-		System.out.println("\n" + "ID: " + id + "\n" + "Name: " + name + "\n" + "Mark: " + mark);
+		System.out.println("\n" + "ID: " + id + "\n" + "Name: " + name + "\n" + "Marks: " + mark);
 	}
 }
